@@ -34,6 +34,6 @@
  6. Klik **run**, Maka Hasil scraping dari website **https://www.bmkg.go.id** akan ditampilkan seperti gambar dibawah ini.
    ![https://git-scm.com](https://github.com/Tior3turn/UAS-1/blob/main/BeautifulSoup/Image/Bs7.png?raw=true)
    
-   ![https://git-scm.com](https://github.com/Tior3turn/UAS-1/blob/main/BeautifulSoup/Image/Bs8.png?raw=true)
+     ![https://git-scm.com](https://github.com/Tior3turn/UAS-1/blob/main/BeautifulSoup/Image/Bs8.png?raw=true)
 
 
