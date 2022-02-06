@@ -1,5 +1,5 @@
 1. Buka aplikasi **pycharm**
-2. Buat nama project **cth : beautyfulSoup4**
+2. Buat nama project **contoh : beautyfulSoup4**
 3. Klik Terminal, Install **request** dengan perintah ```pip install requests```
    Kemudian install **beautifulsoup4** dengan perintah ```pip install beautifulsoup4```,
    Maka hasilnya akan seperti gambar dibawah ini.
